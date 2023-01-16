@@ -1,0 +1,8 @@
+
+.error {
+    background: tomato;
+    margin-top: 1rem;
+    line-height: 3;
+    padding: 0.25rem 2rem;
+    border-radius: 25rem;
+}
